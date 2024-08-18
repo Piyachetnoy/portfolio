@@ -1,5 +1,8 @@
 # portfolio
 
-# education
+## education
 KOSEN
+
+## language
+python
 
