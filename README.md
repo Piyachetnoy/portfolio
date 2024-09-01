@@ -1,4 +1,4 @@
-# About Me
+# Portfolio
 Hi I'm Piyachet. Thai entrepreneur and engineering student. 
 
 ## Education
