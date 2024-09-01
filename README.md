@@ -1,11 +1,15 @@
-# portfolio
-Hi I'm Piyachet.
-Thai entrepreneur and engineering student.
+# About Me
+Hi I'm Piyachet. Thai entrepreneur and engineering student. 
 
-## education
-2019 - 2024 Ibaraki National Institute of Technology (KOSEN)
-2024 - Present Ibaraki National Institute of Technology (KOSEN) Advaned Course
+## Education
+2019 - 2024     Ibaraki National Institute of Technology (KOSEN)
+2024 - Present  Ibaraki National Institute of Technology (KOSEN)
 
-## Language
-Python
-C/C++
+## Language I Speak
+- English
+- Japanese
+- Thai
+- Python
+- C/C++
+
+## Experiences
