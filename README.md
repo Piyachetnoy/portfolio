@@ -1,5 +1,5 @@
 # portfolio
-Hi I'm Piyachet. 
+Hi I'm Piyachet.¥n
 Thai entrepreneur and engineering student.
 
 ## education
