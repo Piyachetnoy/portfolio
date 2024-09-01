@@ -1,5 +1,6 @@
 # portfolio
-Hi I'm Piyachet. Thai entrepreneur and engineering student.
+Hi I'm Piyachet. 
+Thai entrepreneur and engineering student.
 
 ## education
 2019 - 2024 Ibaraki National Institute of Technology (KOSEN)
