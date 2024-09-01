@@ -11,6 +11,7 @@ Hi I'm Piyachet. **Engineering student** and **Entrepreneur**.
 - C/C++
 
 ## Experiences
-
+Suntory Holding Internship <br />
+日本アルゴリズム株式会社(NALGO) Internship 
 ## Projects
 [Google](https://google.com)
