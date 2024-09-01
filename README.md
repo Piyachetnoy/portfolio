@@ -10,7 +10,5 @@ Hi I'm Piyachet. **Engineering student** and **Entrepreneur**.
 - Python
 - C/C++
 ## Experiences
-
-
 ## Projects
 [[google.com]]
