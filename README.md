@@ -1,8 +1,8 @@
 # Portfolio
 Hi I'm Piyachet. **Engineering student** and **Entrepreneur**.
 ## Education
-2019 - 2024      <pre>Ibaraki National Institute of Technology (KOSEN) <br />
-2024 - Pres.     <pre>Ibaraki National Institute of Technology (KOSEN)
+2019 - 2024      &nbsp;&nbsp;Ibaraki National Institute of Technology (KOSEN) <br />
+2024 - Pres.     &nbsp;&nbsp;Ibaraki National Institute of Technology (KOSEN)
 ## Language I Speak
 - English
 - Japanese
