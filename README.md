@@ -9,6 +9,8 @@ Hi I'm Piyachet. **Engineering student** and **Entrepreneur**.
 - Thai
 - Python
 - C/C++
+
 ## Experiences
+
 ## Projects
-[[google.com]]
+[Google](https://google.com)
